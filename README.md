@@ -1,4 +1,6 @@
 # Angular2 + Wordpress
+
+[![Join the chat at https://gitter.im/smartbiz/angular2-wordpress](https://badges.gitter.im/smartbiz/angular2-wordpress.svg)](https://gitter.im/smartbiz/angular2-wordpress?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 > Build a Mobile App for your WordPress based business using Angular 2.
 
 # Development Environment
